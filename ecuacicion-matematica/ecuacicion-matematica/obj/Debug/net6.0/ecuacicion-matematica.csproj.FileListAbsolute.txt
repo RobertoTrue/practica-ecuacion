@@ -1,0 +1,14 @@
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\bin\Debug\net6.0\ecuacicion-matematica.exe
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\bin\Debug\net6.0\ecuacicion-matematica.deps.json
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\bin\Debug\net6.0\ecuacicion-matematica.runtimeconfig.json
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\bin\Debug\net6.0\ecuacicion-matematica.dll
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\bin\Debug\net6.0\ecuacicion-matematica.pdb
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\ecuacicion-matematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\ecuacicion-matematica.AssemblyInfoInputs.cache
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\ecuacicion-matematica.AssemblyInfo.cs
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\ecuacicion-matematica.csproj.CoreCompileInputs.cache
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\ecuacicion-matematica.dll
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\refint\ecuacicion-matematica.dll
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\ecuacicion-matematica.pdb
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\ecuacicion-matematica.genruntimeconfig.cache
+C:\Users\RobertoDev\Desktop\Programacion\C#\ecuacicion-matematica\ecuacicion-matematica\obj\Debug\net6.0\ref\ecuacicion-matematica.dll
